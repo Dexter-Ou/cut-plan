@@ -1,5 +1,7 @@
 # Cut Plan — experimental finite-stock assignment
 
+Download the [source ZIP](https://codeload.github.com/Dexter-Ou/cut-plan/zip/b7378b2246cbd2e29925c16d4f7b434b5f34828a), extract it, and open a terminal in the extracted folder.
+
 Run with Python 3.10 or later, no packages or network needed:
 
     python3 cut_plan.py < example.json
